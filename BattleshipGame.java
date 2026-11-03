@@ -8,7 +8,7 @@ import java.util.Random;
  * resets the miss counter. Three strikes lose the game; sinking all five
  * ships wins it.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class BattleshipGame
