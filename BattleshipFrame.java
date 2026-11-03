@@ -24,7 +24,7 @@ import java.awt.image.BufferedImage;
  * <p>
  * The cell pictures are drawn in code, so no image files are needed.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class BattleshipFrame extends JFrame
