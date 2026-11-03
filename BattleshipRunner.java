@@ -3,7 +3,7 @@ import javax.swing.SwingUtilities;
 /**
  * Starts the Battleship game.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class BattleshipRunner
