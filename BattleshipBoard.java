@@ -7,7 +7,7 @@ import java.util.Random;
  * track of which cells have been fired at, and decides whether a shot is a
  * miss, a hit or sinks a ship. It has no GUI code.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class BattleshipBoard
