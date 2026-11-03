@@ -1,7 +1,7 @@
 /**
  * The outcome of firing at a cell.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public enum ShotResult
