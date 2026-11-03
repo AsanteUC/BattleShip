@@ -5,7 +5,7 @@ import java.util.List;
  * One ship: a name, a size, the cells it occupies and how many times it has
  * been hit.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class Ship
