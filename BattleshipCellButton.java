@@ -4,7 +4,7 @@ import javax.swing.JButton;
  * A button for one cell of the Battleship board. It remembers its row and
  * column so the shared listener can tell which cell was clicked.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public class BattleshipCellButton extends JButton
