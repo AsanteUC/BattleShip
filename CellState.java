@@ -1,7 +1,7 @@
 /**
  * What the player can see in one cell of the board.
  *
- * @author Student
+ * @author Asante
  * @version 1.0
  */
 public enum CellState
